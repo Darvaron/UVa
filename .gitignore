@@ -4,3 +4,4 @@ pdfs
 *.exe
 *.o
 *.win
+*.layout
